@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Andrew996kostan",
+  "repo": "container-lwukcfk",
+  "name": "Andrew996kostan",
+  "email": "andrewkostan@gmail.com",
+}
